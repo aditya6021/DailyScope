@@ -3,6 +3,8 @@
 
 Daily Scope is a comprehensive news application designed to keep you informed with the latest updates from various categories such as technology, science, sports, health, business, entertainment, and more. By aggregating news articles from popular sources, Daily Scope provides a convenient platform to browse through a diverse range of topics, all within a single app. Stay up-to-date with breaking headlines and trending stories effortlessly, with Daily Scope delivering curated news content straight to your fingertips.
 
+## Interface 
+![1](https://github.com/aditya6021/DailyScope/assets/105545824/05d207f0-47a8-440b-bd70-b41f69130d14)
 
 
 
