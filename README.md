@@ -6,7 +6,8 @@ Daily Scope is a comprehensive news application designed to keep you informed wi
 ## Interface 
 ![1](https://github.com/aditya6021/DailyScope/assets/105545824/05d207f0-47a8-440b-bd70-b41f69130d14)
 
-
+![3](https://github.com/aditya6021/DailyScope/assets/105545824/156dacf4-fc8d-402d-9c64-5ed1ed6d6314)
+![2](https://github.com/aditya6021/DailyScope/assets/105545824/aaeee774-9279-4bcb-9a96-af5487c48ef8)
 
 ## Usage
 
